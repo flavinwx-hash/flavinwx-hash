@@ -33,7 +33,7 @@
 
 ## 📫 Como me encontrar:
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:flavinwx@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/fl%C3%A1vio-antunes-622280369/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://https://www.linkedin.com/in/flavio-antunes-622280369/)
 
 ---
 
