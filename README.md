@@ -23,11 +23,6 @@
 
 ---
 
-## 📂 Projetos (em desenvolvimento):
-- [Sistema de cadastro simples](#)  
-- [Exercícios de lógica de programação](#)  
-
-*(vou atualizando à medida que avanço nos estudos)*  
 
 ---
 
