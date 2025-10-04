@@ -31,5 +31,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://https://www.linkedin.com/in/flavio-antunes-622280369/)
 
 ---
-
-⭐ Obrigado por visitar meu perfil!  
